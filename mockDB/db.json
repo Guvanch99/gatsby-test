@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "name": "Product 1",
+      "price": 10,
+      "image": "https://images.pexels.com/photos/90946/pexels-photo-90946.jpeg?cs=srgb&dl=pexels-math-90946.jpg&fm=jpg",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+    },
+    {
+      "id": "2",
+      "name": "Product 2",
+      "price": 12,
+      "image": "https://cdna.4imprint.com/qtz/homepage/categories/images21/drinkware0222.jpg",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+    },
+    {
+      "id": "3",
+      "name": "Product 3",
+      "price": 13,
+      "image": "https://burst.shopifycdn.com/photos/wrist-watches.jpg?width=1200&format=pjpg&exif=1&iptc=1",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+    },
+    {
+      "id": "4",
+      "name": "Product 4",
+      "price": 14,
+      "image": "https://expertphotography.b-cdn.net/wp-content/uploads/2018/09/product-photography-types-water-bottle.jpg",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+    },
+    {
+      "id": "5",
+      "name": "Product 5",
+      "price": 15,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTttYWizJBzdxf8QzdHWgXP_g9QQQEiJNLatQ&usqp=CAU",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+    },
+    {
+      "id": "6",
+      "name": "Product 6",
+      "price": 16,
+      "image": "https://images.squarespace-cdn.com/content/v1/5bf4bf814611a019a7c475f0/1562038085083-DLUD125WWPOUTGYD8Q60/ke17ZwdGBToddI8pDm48kHH9S2ID7_bpupQnTdrPcoF7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0nQwvinDXPV4EYh2MRzm-RRB5rUELEv7EY2n0AZOrEupxpSyqbqKSgmzcCPWV5WMiQ/product%2Bphotography",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+    },
+    {
+      "id": "7",
+      "name": "Product 7",
+      "price": 17,
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MX472?wid=1144&hei=1144&fmt=jpeg&qlt=95&.v=1570119347612",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+    },
+    {
+      "id": "8",
+      "name": "Product 8",
+      "price": 18,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC4MfsH7WDsgWj_6PuIzwuRVqwskfC0FFG4Q&usqp=CAU",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+    },
+    {
+      "id": "9",
+      "name": "Product 9",
+      "price": 19,
+      "image": "https://www.fitbit.com/global/content/dam/fitbit/global/marketing-pages/quiz/desktop/fall2022-quiz-pathing-module-trackers.jpg",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+    },
+    {
+      "id": "10",
+      "name": "Product 10",
+      "price": 20,
+      "image": "https://post.healthline.com/wp-content/uploads/2021/10/1493496-Best-Hair-Growth-Products-for-Thinning-Hair-and-Hair-Loss-732x549-Feature_02-732x549.jpg",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+    }
+  ]
+}
